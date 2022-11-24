@@ -84,4 +84,10 @@
     "path" : "/researchTree/fu_geology/metals_solarium/children",
     "value" : [ "liquid_solarium" ]
   },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_durasteel",
+    "value" : [ "Molten Durasteel", "^orange;Tier 4^reset;\n\n^cyan;Molten Durasteel^reset; is refined durasteel, heated to its melting point: 1846 K (1573 C) under standard pressure. Alloy of various metals that form under radiation and provides high durability. Requires an atomic furnace." ]
+  },
 ]
