@@ -35,7 +35,7 @@
     "op" : "add",
     "path" : "/itemMapLiquids/molten-violium",
     "value" : {
-      "violiumore": ["rarest", 1],
+      "violiumore": ["rare", 1],
       "fu_carbonpure": ["uncommon", 3],
       "fu_nitrogen": ["normal", 1]
     }
@@ -44,8 +44,8 @@
     "op" : "add",
     "path" : "/itemMapLiquids/molten-solarium",
     "value" : {
-      "solariumore": ["rarest", 1],
-      "sulphur": ["rare", 1],
+      "solariumore": ["rare", 1],
+      "sulphur": ["uncommon", 1],
       "money": ["common", 1]
     }
   }
