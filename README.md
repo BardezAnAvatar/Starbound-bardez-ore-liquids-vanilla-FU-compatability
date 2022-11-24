@@ -14,4 +14,4 @@ This mod does the following:
    - [x] Liquid Solarium
 - [x] Removes the automatically-known blueprints for these liquids
 - [x] Adds these liquids to the FU research tree
-- [x] Updates the rarity of molten Solarium to match FU 
+- [x] Updates the rarity of molten Solarium to match FU
