@@ -110,4 +110,30 @@
     "path" : "/strings/research/liquid_solarium",
     "value" : [ "Molten Solarium", "^orange;Tier 6^reset;\n\n^cyan;Molten Solarium^reset; is heated to its melting point: 4096 K (3823 C) under standard pressure. A brilliantly bright substance that forms under conditions common among bright, fiery stars. Requires an atomic furnace." ]
   },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ01",
+    "value" : "liquid_durasteel"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ02",
+    "value" : "liquid_aegisalt"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ03",
+    "value" : "liquid_ferozium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ04",
+    "value" : "liquid_violium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ05",
+    "value" : "liquid_solarium"
+  }
 ]
