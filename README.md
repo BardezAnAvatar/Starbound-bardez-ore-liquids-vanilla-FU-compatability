@@ -12,6 +12,6 @@ This mod does the following:
    - Liquid Ferozium
    - Liquid Violoum
    - Liquid Solarium
-- Removes the automatically-known blueprints for these liquids
-- Adds these liquids to the FU research tree
-- Updates the rarity of molten Solarium to match FU 
+- [x] Removes the automatically-known blueprints for these liquids
+- [x] Adds these liquids to the FU research tree
+- [x] Updates the rarity of molten Solarium to match FU 
