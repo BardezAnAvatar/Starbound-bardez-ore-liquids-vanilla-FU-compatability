@@ -1,0 +1,19 @@
+[
+  //liquid durasteel
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_durasteel",
+    "value" : {
+      "icon" : "/items/liquids/molten-durasteel.png",
+      "children" : [ ],
+      "position" : [290, 80],
+      "price" : [["fuscienceresource", 2000],["durasteelbar", 3]],
+      "unlocks" : [ "molten-durasteel" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_durasteel/children",
+    "value" : [ "liquid_durasteel" ]
+  },
+]
