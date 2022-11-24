@@ -27,7 +27,7 @@
     "path" : "/itemMapLiquids/molten-ferozium",
     "value" : {
       "feroziumore": ["rare", 1],
-      "crystal": ["umcommon", 1],
+      "crystal": ["uncommon", 1],
       "fu_oxygen": ["normal", 1]
     }
   },
