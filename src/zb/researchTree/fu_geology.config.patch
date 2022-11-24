@@ -31,7 +31,7 @@
   {
     "op" : "replace",
     "path" : "/researchTree/fu_geology/metals_aegisalt/children",
-    "value" : [ "liquid_iron" ]
+    "value" : [ "liquid_aegisalt" ]
   },
   //liquid ferozium
   {
