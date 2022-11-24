@@ -1,0 +1,139 @@
+[
+  //liquid durasteel
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_durasteel",
+    "value" : {
+      "icon" : "/items/liquids/molten-durasteel.png",
+      "children" : [ ],
+      "position" : [290, 80],
+      "price" : [["fuscienceresource", 2000],["durasteelbar", 3]],
+      "unlocks" : [ "molten-durasteel" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_durasteel/children",
+    "value" : [ "liquid_durasteel" ]
+  },
+  //liquid aegisalt
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_aegisalt",
+    "value" : {
+      "icon" : "/items/liquids/molten-aegisalt.png",
+      "children" : [ ],
+      "position" : [380, -80],
+      "price" : [["fuscienceresource", 4000],["refinedaegisalt", 3]],
+      "unlocks" : [ "molten-aegisalt" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_aegisalt/children",
+    "value" : [ "liquid_iron" ]
+  },
+  //liquid ferozium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_ferozium",
+    "value" : {
+      "icon" : "/items/liquids/molten-ferozium.png",
+      "children" : [ ],
+      "position" : [320, 80],
+      "price" : [["fuscienceresource", 4000],["refinedferozium", 3]],
+      "unlocks" : [ "molten-ferozium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_ferozium/children",
+    "value" : [ "liquid_ferozium" ]
+  },
+  //liquid violium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_violium",
+    "value" : {
+      "icon" : "/items/liquids/molten-violium.png",
+      "children" : [ ],
+      "position" : [320, 80],
+      "price" : [["fuscienceresource", 4000],["refinedviolium", 3]],
+      "unlocks" : [ "molten-violium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_violium/children",
+    "value" : [ "liquid_violium" ]
+  },
+  //liquid solarium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_solarium",
+    "value" : {
+      "icon" : "/items/liquids/molten-solarium.png",
+      "children" : [ ],
+      "position" : [470, 80],
+      "price" : [["fuscienceresource", 8000],["solariumstar", 3]],
+      "unlocks" : [ "molten-solarium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_solarium/children",
+    "value" : [ "liquid_solarium" ]
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_durasteel",
+    "value" : [ "Molten Durasteel", "^orange;Tier 4^reset;\n\n^cyan;Molten Durasteel^reset; is refined durasteel, heated to its melting point: 1846 K (1573 C) under standard pressure. Alloy of various metals that form under radiation and provides high durability. Requires an atomic furnace." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_aegisalt",
+    "value" : [ "Molten Aegisalt", "^orange;Tier 5^reset;\n\n^cyan;Molten Aegisalt^reset; is refined aegisalt, heated to its melting point: 1549 K (1276 C) under standard pressure. Technically a salt, this robust material forms under conditions common among older, cooler stars. Requires an atomic furnace." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_ferozium",
+    "value" : [ "Molten Ferozium", "^orange;Tier 5^reset;\n\n^cyan;Molten Ferozium^reset; is refined ferozium heated to its melting point: 800 K (527 C) when not alloyed. Forms under conditions common among dying, frozen stars. Requires an atomic furnace." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_violium",
+    "value" : [ "Molten Violium", "^orange;Tier 5^reset;\n\n^cyan;Molten Violium^reset; is refined violium heated to its melting point: 2012 K (1739 C) under standard pressure. Named oh-so-cleverly after its color in a refined, pure state. Forms under conditions common among dying, frozen stars. Requires an atomic furnace." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_solarium",
+    "value" : [ "Molten Solarium", "^orange;Tier 6^reset;\n\n^cyan;Molten Solarium^reset; is heated to its melting point: 4096 K (3823 C) under standard pressure. A brilliantly bright substance that forms under conditions common among bright, fiery stars. Requires an atomic furnace." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ01",
+    "value" : "liquid_durasteel"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ02",
+    "value" : "liquid_aegisalt"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ03",
+    "value" : "liquid_ferozium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ04",
+    "value" : "liquid_violium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/VMORELIQ05",
+    "value" : "liquid_solarium"
+  }
+]
