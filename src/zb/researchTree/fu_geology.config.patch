@@ -95,4 +95,9 @@
     "path" : "/strings/research/liquid_aegisalt",
     "value" : [ "Molten Aegisalt", "^orange;Tier 5^reset;\n\n^cyan;Molten Aegisalt^reset; is refined aegisalt, heated to its melting point: 1549 K (1276 C) under standard pressure. Technically a salt, this robust material forms under conditions common among older, cooler stars. Requires an atomic furnace." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_ferozium",
+    "value" : [ "Molten Ferozium", "^orange;Tier 5^reset;\n\n^cyan;Molten Ferozium^reset; is refined ferozium heated to its melting point: 800 K (527 C) when not alloyed. Forms under conditions common among dying, frozen stars. Requires an atomic furnace." ]
+  },
 ]

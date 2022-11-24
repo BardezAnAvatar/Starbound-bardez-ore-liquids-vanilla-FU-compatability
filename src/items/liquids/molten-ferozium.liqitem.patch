@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A measure of molten ferozium. Looks crystalline and cold.\n^yellow;Centrifugable^reset;.",
+  }
+]
