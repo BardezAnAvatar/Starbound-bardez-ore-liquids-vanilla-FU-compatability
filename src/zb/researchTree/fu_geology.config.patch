@@ -16,4 +16,21 @@
     "path" : "/researchTree/fu_geology/metals_durasteel/children",
     "value" : [ "liquid_durasteel" ]
   },
+  //liquid aegisalt
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_aegisalt",
+    "value" : {
+      "icon" : "/items/liquids/molten-aegisalt.png",
+      "children" : [ ],
+      "position" : [380, -80],
+      "price" : [["fuscienceresource", 1000],["refinedaegisalt", 3]],
+      "unlocks" : [ "molten-aegisalt" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_aegisalt/children",
+    "value" : [ "liquid_iron" ]
+  },
 ]
