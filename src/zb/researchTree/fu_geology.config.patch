@@ -50,4 +50,21 @@
     "path" : "/researchTree/fu_geology/metals_ferozium/children",
     "value" : [ "liquid_ferozium" ]
   },
+  //liquid violium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_violium",
+    "value" : {
+      "icon" : "/items/liquids/molten-violium.png",
+      "children" : [ ],
+      "position" : [320, 80],
+      "price" : [["fuscienceresource", 4000],["refinedviolium", 3]],
+      "unlocks" : [ "molten-violium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_violium/children",
+    "value" : [ "liquid_violium" ]
+  },
 ]
