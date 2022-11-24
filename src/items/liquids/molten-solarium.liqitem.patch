@@ -8,5 +8,10 @@
     "op": "replace",
     "path": "/rarity",
     "value": "legendary"
+  },
+  {
+    "op" : "replace",
+    "path" : "/price",
+    "value" : 400
   }
 ]
