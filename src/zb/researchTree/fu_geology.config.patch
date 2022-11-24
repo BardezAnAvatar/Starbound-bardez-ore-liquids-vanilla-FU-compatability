@@ -105,4 +105,9 @@
     "path" : "/strings/research/liquid_violium",
     "value" : [ "Molten Violium", "^orange;Tier 5^reset;\n\n^cyan;Molten Violium^reset; is refined violium heated to its melting point: 2012 K (1739 C) under standard pressure. Named oh-so-cleverly after its color in a refined, pure state. Forms under conditions common among dying, frozen stars. Requires an atomic furnace." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_solarium",
+    "value" : [ "Molten Solarium", "^orange;Tier 6^reset;\n\n^cyan;Molten Solarium^reset; is heated to its melting point: 4096 K (3823 C) under standard pressure. A brilliantly bright substance that forms under conditions common among bright, fiery stars. Requires an atomic furnace." ]
+  },
 ]
