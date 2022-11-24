@@ -1,0 +1,52 @@
+[
+  /*
+  Note: Centrifuges only ever spawn 1 item per input. The second index after the commonality is not a spawn count, but instead
+  the divisor of the occurrance. i.e.: makes it even rarer than it already is. See: /objects/bees/centrifuge.lua, method `update(dt)`
+  */
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-durasteel",
+    "value" : {
+      "durasteelore": ["rare", 1],
+      "fu_carbon": ["uncommon", 1],
+      "fu_carbondioxide": ["normal", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-aegisalt",
+    "value" : {
+      "aegisaltore": ["rare", 1],
+      "ff_silicon": ["uncommon", 1],
+      "fu_salt": ["common", 1],
+      "fu_nitrogen": ["normal", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-ferozium",
+    "value" : {
+      "feroziumore": ["rare", 1],
+      "crystal": ["umcommon", 1],
+      "fu_oxygen": ["normal", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-violium",
+    "value" : {
+      "violiumore": ["rarest", 1],
+      "fu_carbonpure": ["uncommon", 3],
+      "fu_nitrogen": ["normal", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-solarium",
+    "value" : {
+      "solariumore": ["rarest", 1],
+      "sulphur": ["rare", 1],
+      "money": ["common", 1]
+    }
+  }
+]
