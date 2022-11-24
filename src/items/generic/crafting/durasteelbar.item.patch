@@ -1,0 +1,7 @@
+[
+  [
+    //remove the learnBlueprintsOnPickup = "molten-durasteel" in favor of FU research
+    { "op": "test", "path": "/learnBlueprintsOnPickup/0", "value" : "molten-durasteel" },
+    { "op": "remove", "path": "/learnBlueprintsOnPickup/0" }
+  ]
+]
