@@ -90,4 +90,9 @@
     "path" : "/strings/research/liquid_durasteel",
     "value" : [ "Molten Durasteel", "^orange;Tier 4^reset;\n\n^cyan;Molten Durasteel^reset; is refined durasteel, heated to its melting point: 1846 K (1573 C) under standard pressure. Alloy of various metals that form under radiation and provides high durability. Requires an atomic furnace." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_aegisalt",
+    "value" : [ "Molten Aegisalt", "^orange;Tier 5^reset;\n\n^cyan;Molten Aegisalt^reset; is refined aegisalt, heated to its melting point: 1549 K (1276 C) under standard pressure. Technically a salt, this robust material forms under conditions common among older, cooler stars. Requires an atomic furnace." ]
+  },
 ]
