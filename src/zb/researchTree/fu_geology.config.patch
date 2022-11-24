@@ -57,7 +57,7 @@
     "value" : {
       "icon" : "/items/liquids/molten-violium.png",
       "children" : [ ],
-      "position" : [320, 80],
+      "position" : [320, -80],
       "price" : [["fuscienceresource", 4000],["refinedviolium", 3]],
       "unlocks" : [ "molten-violium" ]
     }
