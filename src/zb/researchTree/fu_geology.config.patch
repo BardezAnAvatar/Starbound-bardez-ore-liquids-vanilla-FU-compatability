@@ -24,7 +24,7 @@
       "icon" : "/items/liquids/molten-aegisalt.png",
       "children" : [ ],
       "position" : [380, -80],
-      "price" : [["fuscienceresource", 1000],["refinedaegisalt", 3]],
+      "price" : [["fuscienceresource", 4000],["refinedaegisalt", 3]],
       "unlocks" : [ "molten-aegisalt" ]
     }
   },
@@ -41,7 +41,7 @@
       "icon" : "/items/liquids/molten-ferozium.png",
       "children" : [ ],
       "position" : [320, 80],
-      "price" : [["fuscienceresource", 1000],["refinedferozium", 3]],
+      "price" : [["fuscienceresource", 4000],["refinedferozium", 3]],
       "unlocks" : [ "molten-ferozium" ]
     }
   },
