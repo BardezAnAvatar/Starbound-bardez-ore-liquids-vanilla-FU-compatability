@@ -67,4 +67,21 @@
     "path" : "/researchTree/fu_geology/metals_violium/children",
     "value" : [ "liquid_violium" ]
   },
+  //liquid solarium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_solarium",
+    "value" : {
+      "icon" : "/items/liquids/molten-solarium.png",
+      "children" : [ ],
+      "position" : [470, 80],
+      "price" : [["fuscienceresource", 8000],["solariumstar", 3]],
+      "unlocks" : [ "molten-solarium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_solarium/children",
+    "value" : [ "liquid_solarium" ]
+  },
 ]
