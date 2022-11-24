@@ -6,12 +6,12 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 
 This mod does the following:
 
-- Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids:
-   - Liquid Durasteel
-   - Liquid Aegisalt
-   - Liquid Ferozium
-   - Liquid Violoum
-   - Liquid Solarium
+- [x] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids:
+   - [x] Liquid Durasteel
+   - [x] Liquid Aegisalt
+   - [x] Liquid Ferozium
+   - [x] Liquid Violoum
+   - [x] Liquid Solarium
 - [x] Removes the automatically-known blueprints for these liquids
 - [x] Adds these liquids to the FU research tree
 - [x] Updates the rarity of molten Solarium to match FU 
