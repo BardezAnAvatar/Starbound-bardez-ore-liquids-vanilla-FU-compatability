@@ -1,0 +1,8 @@
+{
+  "author" : "Bardez",
+  "friendlyName" : "Vanilla mORE liquids FU Compatability",
+  "name" : "vanilla_mORE_liquids_FU_compatability",
+  "version" : "0.1.0",
+  "tags" : "Crafting and Building|Miscellaneous",
+  "includes" : ["FrackinUniverse", "mORE Liquids", "mORE Liquids Fix Patch", "vanilla_mORE_liquids"]
+}
