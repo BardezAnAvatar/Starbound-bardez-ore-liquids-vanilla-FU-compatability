@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A measure of molten solarium. Emits a brilliant light.\n^yellow;Centrifugable^reset;.",
+    "value": "A measure of molten solarium. Emits a brilliant light.\n^yellow;Centrifugable^reset;."
   },
   {
     "op": "replace",

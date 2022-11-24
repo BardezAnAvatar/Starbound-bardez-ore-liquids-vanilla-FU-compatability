@@ -7,7 +7,7 @@
       "icon" : "/items/liquids/molten-durasteel.png",
       "children" : [ ],
       "position" : [290, 80],
-      "price" : [["fuscienceresource", 2000],["durasteelbar", 3]],
+      "price" : [["fuscienceresource", 4000],["durasteelbar", 3]],
       "unlocks" : [ "molten-durasteel" ]
     }
   },
@@ -24,14 +24,14 @@
       "icon" : "/items/liquids/molten-aegisalt.png",
       "children" : [ ],
       "position" : [380, -80],
-      "price" : [["fuscienceresource", 4000],["refinedaegisalt", 3]],
+      "price" : [["fuscienceresource", 5000],["refinedaegisalt", 3]],
       "unlocks" : [ "molten-aegisalt" ]
     }
   },
   {
     "op" : "replace",
     "path" : "/researchTree/fu_geology/metals_aegisalt/children",
-    "value" : [ "liquid_iron" ]
+    "value" : [ "liquid_aegisalt" ]
   },
   //liquid ferozium
   {
@@ -41,7 +41,7 @@
       "icon" : "/items/liquids/molten-ferozium.png",
       "children" : [ ],
       "position" : [320, 80],
-      "price" : [["fuscienceresource", 4000],["refinedferozium", 3]],
+      "price" : [["fuscienceresource", 5000],["refinedferozium", 3]],
       "unlocks" : [ "molten-ferozium" ]
     }
   },
@@ -57,8 +57,8 @@
     "value" : {
       "icon" : "/items/liquids/molten-violium.png",
       "children" : [ ],
-      "position" : [320, 80],
-      "price" : [["fuscienceresource", 4000],["refinedviolium", 3]],
+      "position" : [320, -80],
+      "price" : [["fuscienceresource", 5000],["refinedviolium", 3]],
       "unlocks" : [ "molten-violium" ]
     }
   },
@@ -75,7 +75,7 @@
       "icon" : "/items/liquids/molten-solarium.png",
       "children" : [ ],
       "position" : [470, 80],
-      "price" : [["fuscienceresource", 8000],["solariumstar", 3]],
+      "price" : [["fuscienceresource", 9000],["solariumstar", 3]],
       "unlocks" : [ "molten-solarium" ]
     }
   },
